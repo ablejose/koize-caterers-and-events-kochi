@@ -1,0 +1,54 @@
+{
+  "slug": "koize-caterers-and-events-kochi",
+  "name": "Koize Caterers & Events",
+  "shortName": "Koize",
+  "descriptor": "Catering & Events",
+  "address": "Church Rd, Pallinada, Palarivattom, Ernakulam, Kochi, Keralam 682025",
+  "area": "Palarivattom",
+  "city": "Kochi",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "682025",
+  "geo": {
+    "lat": 9.991793399999999,
+    "lng": 76.3062176
+  },
+  "mapsLink": "https://maps.google.com/?cid=11752520655096530875",
+  "phone": "+91 98465 95709",
+  "whatsapp": "919846595709",
+  "hours": "Open 6 am – 10 pm · all days",
+  "opens": "06:00",
+  "closes": "22:00",
+  "rating": 4.6,
+  "reviewCount": 46,
+  "reviews": [
+    {
+      "name": "Excellent Study Abroad admin",
+      "rating": 5,
+      "quote": "The food delivered by Koize Caterers & Event was an explosion of flavors that delighted our taste buds and made the entire dining experience feel substantial and worthwhile. Thank you for the delicious onasadhya"
+    },
+    {
+      "name": "Hr Ecare",
+      "rating": 5,
+      "quote": "We ordered Onam Sadya from Koize last day. It was very tasty and delicious. It also budget friendly. Helped us serve quality Onasadya to our employees. Highly recommended."
+    },
+    {
+      "name": "Binosh",
+      "rating": 4,
+      "quote": "Good food n service within an affordable budget"
+    },
+    {
+      "name": "Shahid Basheer",
+      "rating": 5,
+      "quote": "Overall service is excellent. Especially Beef biriyani is mouth watering......"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://koize-caterers-and-events-kochi.vercel.app"
+}
